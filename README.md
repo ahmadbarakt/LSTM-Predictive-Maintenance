@@ -8,4 +8,4 @@ The purpose of this project is to design and develop a neural networks expert sy
 The data was collected from convyours sensors in a high storage system to transport one package between two spots. The data was released by Smartfactory and publicly avaialble on [Kaggle.](https://www.kaggle.com/nafisur/dataset-for-predictive-maintenance)
 
 # Model Architucture:
-
+https://github.com/ahmadbarakt/LSTM-Predictive-Maintenance/blob/master/Images/model%20arch.png
